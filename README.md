@@ -1,2 +1,2 @@
 # Hackerrankpython
-##All the Solution of Hackerrank-Python.
+## All the Solution of Hackerrank-Python.
